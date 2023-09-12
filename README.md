@@ -16,7 +16,7 @@ You will find my first project and my Coming Soon Projects that I will update. F
 
 ## Usage
 
-Open deployed app at https://andedu15.github.io/Portfolio/
+Open deployed app at https://andedu15.github.io/passwordGenerator/
 
  - Click on "Generate Password" button.
 
