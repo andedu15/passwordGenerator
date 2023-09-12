@@ -25,7 +25,7 @@ function generatePassword() {
   lowerCaseChoice = prompt("Do you want to include LOWERCASE characters?\n Yes: write Y\n No: write N").toLocaleLowerCase();
   console.log(lowerCaseChoice);
   while (lowerCaseChoice != "y" && lowerCaseChoice != "n") {
-    lowerCaseChoice = prompt("Write Y or N Do you want to include LOWERCASE characters? Write Y or N");
+    lowerCaseChoice = prompt("Write Y or N Do you want to include LOWERCASE characters? Write Y or N").toLocaleLowerCase();
   }
   
   if (lowerCaseChoice == "y") {
@@ -40,7 +40,7 @@ function generatePassword() {
   /* UPPERCASE CHOICE */
   upperCaseChoice = prompt("Do you want to include UPPERCASE characters?\n Yes: write Y\n No: write N").toLocaleLowerCase();
   while (upperCaseChoice != "y" && upperCaseChoice != "n") {
-    upperCaseChoice = prompt("Write Y or N Do you want to include UPPERCASE characters? Write Y or N");
+    upperCaseChoice = prompt("Write Y or N Do you want to include UPPERCASE characters? Write Y or N").toLocaleLowerCase();
   }
   if (upperCaseChoice == "y") {
     basePassword += upperCase;
@@ -54,7 +54,7 @@ function generatePassword() {
   /* NUMBER CHOICE */
   numberChoice = prompt("Do you want to include NUMBERS characters?\n Yes: write Y\n No: write N").toLocaleLowerCase();
   while (numberChoice != "y" && numberChoice != "n") {
-    numberChoice = prompt("Write Y or N Do you want to include NUMBERS characters? Write Y or N");
+    numberChoice = prompt("Write Y or N Do you want to include NUMBERS characters? Write Y or N").toLocaleLowerCase();
   }
   if (numberChoice == "y") {
     basePassword += number;
@@ -68,7 +68,7 @@ function generatePassword() {
   /* SPECIAL CHOICE */
   specialChoice = prompt("Do you want to include SPECIAL characters?\n Yes: write Y\n No: write N").toLocaleLowerCase();
   while (specialChoice != "y" && specialChoice != "n") {
-    specialChoice = prompt("Write Y or N Do you want to include SPECIAL characters? Write Y or N");
+    specialChoice = prompt("Write Y or N Do you want to include SPECIAL characters? Write Y or N").toLocaleLowerCase();
   }
   if (specialChoice == "y") {
     basePassword += special;
