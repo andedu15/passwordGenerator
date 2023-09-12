@@ -20,37 +20,43 @@ Open deployed app at https://andedu15.github.io/Portfolio/
 
  - Click on "Generate Password" button.
 
- ![Alt text](image-1.png)
+ ![Alt text](assets/img/image-1.png)
 
  - Choose the LENGTH of your password.
 
- ![Alt text](image-1.png)
+ ![Alt text](assets/img/image-2.png)
 
  - Choose if you want LOWERCASE.
 
- ![Alt text](image-4.png)
+ ![Alt text](assets/img/image-4.png)
 
  - Choose if you want UPPERCASE.
 
- ![Alt text](image-5.png)
+ ![Alt text](assets/img/image-5.png)
 
  - Choose if you want NUMBERS.
 
- ![Alt text](image-6.png)
+ ![Alt text](assets/img/image-6.png)
 
  - Choose if you want SPECIAL CHARACTERS.
 
- ![Alt text](image-7.png)
+ ![Alt text](assets/img/image-7.png)
 
  - You will see your choices.
 
- 
+ ![Alt text](assets/img/image-8.png)
+
+ - Password generator will create your password.
+
+ ![Alt text](assets/img/image-9.png)
+
+
 
 ## Screenshot
 
 Main card
 
-![Alt text](image.png)
+![Alt text](assets/img/image.png)
 
 
 
