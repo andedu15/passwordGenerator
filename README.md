@@ -12,29 +12,47 @@ You will find my first project and my Coming Soon Projects that I will update. F
 
 - HTML5
 - CSS3
-- Javascript
+- JavaScript
 
 ## Usage
 
 Open deployed app at https://andedu15.github.io/Portfolio/
 
+ - Click on "Generate Password" button.
+
+ ![Alt text](image-1.png)
+
+ - Choose the LENGTH of your password.
+
+ ![Alt text](image-1.png)
+
+ - Choose if you want LOWERCASE.
+
+ ![Alt text](image-4.png)
+
+ - Choose if you want UPPERCASE.
+
+ ![Alt text](image-5.png)
+
+ - Choose if you want NUMBERS.
+
+ ![Alt text](image-6.png)
+
+ - Choose if you want SPECIAL CHARACTERS.
+
+ ![Alt text](image-7.png)
+
+ - You will see your choices.
+
+ 
+
 ## Screenshot
 
-Header
+Main card
 
-![image](https://github.com/andedu15/Portfolio/assets/126121687/9d52df62-940b-480e-a191-32bc47e03724)
-
-Main Section
-
-![image](https://github.com/andedu15/Portfolio/assets/126121687/f8b0c570-d2a9-42fb-8eb2-586a02ffe80a)
-
-Aside
-
-![image](https://github.com/andedu15/Portfolio/assets/126121687/e8b87ef5-36b4-418b-890f-706f999ffffe)
+![Alt text](image.png)
 
 
-Footer
 
-![image](https://github.com/andedu15/Portfolio/assets/126121687/e677f224-b680-4108-9bd2-ea6ea6b23fc5)
 
 
