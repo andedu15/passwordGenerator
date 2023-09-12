@@ -2,11 +2,9 @@
 
 ## Description
 
-This is my first portfolio where you will find a little about me, my skills and my projects.
+This is the Password Generator app, where you can create a secure password. You can choose what type of password you need to create, from a basic password (letters) to a complex password (letters, numbers and special characters).
 
-For the creation of this web page, I applied my knowledge of html, css and a bit of bootstrap. So, used flexbox and a media query to solve the responsive layout, use some hovers to animate the links.
-
-You will find my first project and my Coming Soon Projects that I will update. For this coming soon projects, you will see a background image with "Web under construction meanwhile".
+After choosing your options,  this application will take random values to create your password and you can see it on the main card.
 
 ## Technologies
 
