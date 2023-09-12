@@ -1,4 +1,4 @@
-# Portfolio
+# Password Generator
 
 ## Description
 
@@ -12,7 +12,7 @@ You will find my first project and my Coming Soon Projects that I will update. F
 
 - HTML5
 - CSS3
-- Bootstrap (icons)
+- Javascript
 
 ## Usage
 
